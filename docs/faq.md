@@ -1,6 +1,7 @@
-\_
+[![!CyVerse Learning Center](../assets/cyverse_learning.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org)
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
+[![!Learning Home](../assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
+
 
 \[Platform\] FAQs
 =================
@@ -53,13 +54,16 @@ These are some common tasks you may wish to do with \[platform\]:
 
 **Fix or improve this documentation**
 
--   Search for an answer:
--   Ask us for help: click on the lower right-hand side of the page
--   Report an issue or submit a change:
--   Send feedback: [Tutorials\@CyVerse.org](Tutorials@CyVerse.org)
+  - Search for an answer:
+     [CyVerse Learning Center](https://learning.cyverse.org)
+  - Ask us for help:
+    click [Intercom]() icon on the lower right-hand side of the page
+  - Report an issue or submit a change:
+    [Github Repo Link]()
+  - Send feedback: <Tutorials@CyVerse.org>
 
 ------------------------------------------------------------------------
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
+[Learning Center Home](http://learning.cyverse.org/)
 
 
