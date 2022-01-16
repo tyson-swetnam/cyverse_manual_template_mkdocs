@@ -2,8 +2,9 @@
 
 [![!Learning Home](https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
-[Platform] Major Functionality N
-================================
+
+# [Platform] Major Functionality N
+==================================
 
 Short introductory text here.
 
@@ -11,12 +12,12 @@ Short introductory text here.
 
 ------------------------------------------------------------------------
 
-[Platform] Sub-functionality 1
-------------------------------
+## [Platform] Sub-functionality 1
+---------------------------------
 
 Short introductory text here.
 
-### [Platform] menu, panel, or console
+## [Platform] menu, panel, or console
 
 [Optional Photo]
 
@@ -42,8 +43,8 @@ Introductory text
 
 ------------------------------------------------------------------------
 
-[Platform] Sub-functionality n
---------------------------------
+## [Platform] Sub-functionality n
+---------------------------------
 
 Short introductory text here.
 

@@ -7,23 +7,22 @@
 
 The CyVerse Learning Center is a release of our learning materials in the popular "Read the Docs" formatting.
 
-**MANUAL NAME**
-===============
+# MANUAL NAME
+=============
 
-Welcome to Platform!
+**Welcome to Platform!**
 
 ------------------------------------------------------------------------
 
-
 **Manual Maintainer(s)**
 
-Who to contact if this manual needs fixing. You can also email <tutorials@cyverse.org>
+Who to contact if this manual needs fixing. 
 
 | Maintainer | Institution | Contact |
 |------------|-------------|---------|
 | Your Name | CyVerse | <yourname@email.com> |
 
-
+You can also email <tutorials@cyverse.org>
 
 ------------------------------------------------------------------------
 
@@ -36,7 +35,7 @@ overflow: hidden; max-width: 100%; height: auto;">
 
 ------------------------------------------------------------------------
 
-### 5 Quick FYIs about [Platform]:
+## 5 Quick FYIs about [Platform]:
 
 -   **What**: The platform is ...
 -   **Why**: Some of the most important uses of the platform are ...
@@ -49,7 +48,7 @@ overflow: hidden; max-width: 100%; height: auto;">
 Prerequisites
 -------------
 
-### Downloads, access, and services
+## Downloads, access, and services
 
 *In order to follow this manual you will need access to the following
 services/software*
@@ -71,5 +70,3 @@ services/software*
 ------------------------------------------------------------------------
 
 [Learning Center Home](http://learning.cyverse.org/)
-
-

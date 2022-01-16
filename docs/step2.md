@@ -2,8 +2,8 @@
 
 [![!Learning Home](https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
-[Platform] Last Major Functionality N
-=====================================
+# [Platform] Last Major Functionality N
+=======================================
 
 Short introductory text here.
 
@@ -11,8 +11,8 @@ Short introductory text here.
 
 ------------------------------------------------------------------------
 
-[Platform] Sub-functionality 1
---------------------------------
+## [Platform] Sub-functionality 1
+---------------------------------
 
 Short introductory text here.
 
@@ -44,8 +44,8 @@ Introductory text
 
 ------------------------------------------------------------------------
 
-[Platform] Sub-functionality n
-------------------------------
+## [Platform] Sub-functionality n
+---------------------------------
 
 Short introductory text here.
 
@@ -75,8 +75,8 @@ Introductory text
 
 ------------------------------------------------------------------------
 
-*Summary*
----------
+## Summary
+----------
 
 **Next Steps:**
 
@@ -100,5 +100,3 @@ Introductory text
 ------------------------------------------------------------------------
 
 [Learning Center Home](http://learning.cyverse.org/)
-
-

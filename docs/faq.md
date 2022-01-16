@@ -2,11 +2,11 @@
 
 [![!Learning Home](https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
-\[Platform\] FAQs
-=================
+# [Platform\] FAQs
+==================
 
-General FAQs
-------------
+## General FAQs
+---------------
 
 These are some general questions about the \[platform\]:
 
@@ -64,5 +64,3 @@ These are some common tasks you may wish to do with \[platform\]:
 ------------------------------------------------------------------------
 
 [Learning Center Home](http://learning.cyverse.org/)
-
-
