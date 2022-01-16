@@ -4,7 +4,6 @@
 
 
 # [Platform] Major Functionality N
-==================================
 
 Short introductory text here.
 
@@ -35,12 +34,11 @@ Introductory text
   |--------------|---------------|
   | Menu title | Function explanation |
 
-.. note:: admonition-title
+!!! note "admonition-title"
+    Tip
+    - The note contains all indented body elements following.
+    - It includes this bullet list.
 
-   Tip
-   - The note contains all indented body elements
-     following.
-   - It includes this bullet list.
 
 ------------------------------------------------------------------------
 
@@ -67,36 +65,26 @@ Introductory text
   |--------------|---------------|
   | Menu title | Function explanation |
 
-.. note:: admonition-title
-
-   Tip
-   - The note contains all indented body elements
-     following.
-   - It includes this bullet list.
+!!! note "admonition-title"
+    Tip
+    - The note contains all indented body elements following.
+    - It includes this bullet list.
 
 ------------------------------------------------------------------------
 
 For clickable buttons:
 
-[Link button](http://example.com/){: .btn }
-
-[Link button](http://example.com/){: .btn .btn-purple }
-[Link button](http://example.com/){: .btn .btn-blue }
 [Link button](http://example.com/){: .btn .btn-green }
 
-[Link button](http://example.com/){: .btn .btn-outline }
-
 ------------------------------------------------------------------------
 
-> 4. Keywords in bold: Click on **Apps** OR select **Arabidopsis**
->
-> :   5.  Primary menu titles in double quotes: Under \"Input\"
->         choose\...
->
->     6\. Secondary menu titles or headers in single quotes: For the \'Select
->     Input\' option choose\... \#\#\#\#
->
-------------------------------------------------------------------------
+Keywords in bold: Click on **Apps** OR select **Arabidopsis**
+
+Primary menu titles in double quotes: Under "Input" choose ...
+
+Secondary menu titles or headers in single quotes: For the 'Select Input' option choose ... 
+
+-----------------------------------------------------------------------
 
 **Fix or improve this documentation**
 

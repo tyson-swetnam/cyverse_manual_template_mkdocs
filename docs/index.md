@@ -8,7 +8,6 @@
 The CyVerse Learning Center is a release of our learning materials in the popular "Read the Docs" formatting.
 
 # MANUAL NAME
-=============
 
 **Welcome to Platform!**
 
