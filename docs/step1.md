@@ -2,23 +2,23 @@
 
 [![!Learning Home](../assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
-\[Platform\] Major Functionality N
-==================================
+[Platform] Major Functionality N
+================================
 
 Short introductory text here.
 
-\[Optional Photo\]
+[Optional Photo]
 
 ------------------------------------------------------------------------
 
-\[Platform\] Sub-functionality 1
---------------------------------
+[Platform] Sub-functionality 1
+------------------------------
 
 Short introductory text here.
 
-### \[Platform\] menu, panel, or console
+### [Platform] menu, panel, or console
 
-\[Optional Photo\]
+[Optional Photo]
 
 **Major Features**
 
@@ -30,28 +30,26 @@ Short introductory text here.
 
 Introductory text
 
-  Menu heading   Functionality
-  -------------- ----------------------
-  Menu title     Function explanation
+  | Menu heading | Functionality |
+  |--------------|---------------|
+  | Menu title | Function explanation |
 
-::: {.tip}
-::: {.admonition-title}
-Tip
-:::
-
-Helpful tips
-:::
+.. note:: admonition-title
+   Tip
+   - The note contains all indented body elements
+     following.
+   - It includes this bullet list.
 
 ------------------------------------------------------------------------
 
-\[Platform\] Sub-functionality n
+[Platform] Sub-functionality n
 --------------------------------
 
 Short introductory text here.
 
-### \[Platform\] menu, panel, or console
+### [Platform] menu, panel, or console
 
-\[Optional Photo\]
+[Optional Photo]
 
 **Major Features**
 
@@ -63,17 +61,15 @@ Short introductory text here.
 
 Introductory text
 
-  Menu heading   Functionality
-  -------------- ----------------------
-  Menu title     Function explanation
+  | Menu heading | Functionality |
+  |--------------|---------------|
+  | Menu title | Function explanation |
 
-::: {.tip}
-::: {.admonition-title}
-Tip
-:::
-
-Helpful tips
-:::
+.. note:: admonition-title
+   Tip
+   - The note contains all indented body elements
+     following.
+   - It includes this bullet list.
 
 ------------------------------------------------------------------------
 
@@ -99,8 +95,7 @@ Helpful tips
   - Report an issue or submit a change:
     [Github Repo Link]()
   - Send feedback: <Tutorials@CyVerse.org>
+  
 ------------------------------------------------------------------------
 
 [Learning Center Home](http://learning.cyverse.org/)
-
-

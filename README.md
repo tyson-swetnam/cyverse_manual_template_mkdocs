@@ -3,7 +3,7 @@
 
 You should import this repo to build CyVerse Platform/Service Guides
 
-**See what this template looks like [rendered as ReadTheDocs](https://cyverse-cyverse-manual-template.readthedocs-hosted.com/en/latest/)**
+**See what this template looks like [rendered as ReadTheDocs](https://tyson-swetnam.github.io/cyverse_manual_template_mkdocs)**
 ## How CyVerse Learning Center documentation is built
 
 Each piece of CyVerse Learning Center has its own [ReadtheDocs](https://readthedocs.com/)
