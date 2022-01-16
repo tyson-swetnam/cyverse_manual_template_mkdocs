@@ -16,6 +16,7 @@ items.
 - [ ] `mkdocs.yml` is version 2.1
 - [ ] `requirements.txt` is version 2.1
 - [ ] `README.md` is version 2.1
+- [ ] `docs/javascripts/intercom-learning.js` is present
 
 ### 2. Check on the following required formatting for all pages
 

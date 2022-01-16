@@ -82,16 +82,16 @@ Introductory text
 
 ### More help and additional information
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 **Fix or improve this documentation**
 
   - Search for an answer:
      [CyVerse Learning Center](https://learning.cyverse.org)
   - Ask us for help:
-    click [Intercom]() icon on the lower right-hand side of the page
+    click the Intercom icon ![Intercom](https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs/raw/main/assets/intercom.png){ width="25" } on the lower right-hand side of the page
   - Report an issue or submit a change:
-    [Github Repo Link]()
+    [Github Repo Link](https://github.com/cyverse-learning-materials/)
   - Send feedback: <Tutorials@CyVerse.org>
   
 ------------------------------------------------------------------------
