@@ -1,0 +1,66 @@
+# CyVerse Learning Materials Release 2.1
+docs_dir: docs/
+repo_name: 'tyson-swetnam/cyverse_manual_template_mkdocs'
+repo_url: 'https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs'
+
+site_name: 'CyVerse Learning Center'
+site_description: 'Documentation for CyVerse Platforms and Education'
+site_author: 'CyVerse Science Team'
+site_url: https://tyson-swetnam.github.io/cyverse_manual_template_mkdocs/
+
+edit_uri: edit/main/docs
+
+# Copyright
+copyright: 'Copyright &copy; 2022 CyVerse'
+
+# Navigation Page
+nav:
+  - Home: index.md
+  - step1: step1.md
+  - step2: step2.md
+  - FAQ: faq.md
+
+# Resets the theme to readthedocs
+# must also set Action to use @nomaterial branch instead of @master for material
+theme:
+  name: readthedocs
+  
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
