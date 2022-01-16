@@ -16,7 +16,7 @@ Short introductory text here.
 
 Short introductory text here.
 
-## [Platform] menu, panel, or console
+### [Platform] menu, panel, or console
 
 [Optional Photo]
 
@@ -72,13 +72,17 @@ Introductory text
 
 ------------------------------------------------------------------------
 
-For clickable buttons:
+For clickable buttons: `[Link button](https:/google.com/){: .btn .btn-green }`
 
-[Link button](http://example.com/){: .btn .btn-green }
+[Link button](https://google.com/){: .btn .btn-green }
 
 ------------------------------------------------------------------------
 
-Keywords in bold: Click on **Apps** OR select **Arabidopsis**
+Keywords in bold: `Click on **Apps** OR select **Arabidopsis**`
+
+Click on **Apps** OR select **Arabidopsis**
+
+------------------------------------------------------------------------
 
 Primary menu titles in double quotes: Under "Input" choose ...
 
