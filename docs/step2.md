@@ -1,6 +1,6 @@
-\_
+[![!CyVerse Learning Center](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org)
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
+[![!Learning Home](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
 \[Platform\] Last Major Functionality N
 =======================================
@@ -91,11 +91,14 @@ Helpful tips
 
 **Fix or improve this documentation**
 
--   Search for an answer:
--   Ask us for help: click on the lower right-hand side of the page
--   Report an issue or submit a change:
--   Send feedback: [learning\@CyVerse.org](learning@CyVerse.org)
-
+  - Search for an answer:
+     [CyVerse Learning Center](https://learning.cyverse.org)
+  - Ask us for help:
+    click [Intercom]() icon on the lower right-hand side of the page
+  - Report an issue or submit a change:
+    [Github Repo Link]()
+  - Send feedback: <Tutorials@CyVerse.org>
+  
 ------------------------------------------------------------------------
 
 \_ [Learning Center Home](http://learning.cyverse.org/)
