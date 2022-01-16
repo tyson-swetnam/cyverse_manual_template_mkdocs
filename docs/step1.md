@@ -36,6 +36,7 @@ Introductory text
 
 !!! note "admonition-title"
     Tip
+    
       - The note contains all indented body elements following.
       - It includes this bullet list.
 
@@ -66,6 +67,7 @@ Introductory text
 
 !!! note "admonition-title"
     Tip
+    
       - The note contains all indented body elements following.
       - It includes this bullet list.
 

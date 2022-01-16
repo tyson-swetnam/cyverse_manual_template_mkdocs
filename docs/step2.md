@@ -3,7 +3,6 @@
 [![!Learning Home](https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
 # [Platform] Last Major Functionality N
-=======================================
 
 Short introductory text here.
 
@@ -36,6 +35,7 @@ Introductory text
 
 !!! note "admonition-title"
     Tip
+
       - The note contains all indented body elements following.
       - It includes this bullet list.
 
@@ -66,6 +66,7 @@ Introductory text
 
 !!! note "admonition-title"
     Tip
+    
       - The note contains all indented body elements following.
       - It includes this bullet list.
 
