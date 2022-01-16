@@ -34,13 +34,10 @@ Introductory text
   |--------------|---------------|
   | Menu title | Function explanation |
 
-
-.. note:: admonition-title
-   Tip
-   - The note contains all indented body elements
-     following.
-   - It includes this bullet list.
-
+!!! note "admonition-title"
+    Tip
+      - The note contains all indented body elements following.
+      - It includes this bullet list.
 
 ------------------------------------------------------------------------
 
@@ -67,11 +64,10 @@ Introductory text
   |--------------|---------------|
   | Menu title | Function explanation |
 
-.. note:: admonition-title
-   Tip
-   - The note contains all indented body elements
-     following.
-   - It includes this bullet list.
+!!! note "admonition-title"
+    Tip
+      - The note contains all indented body elements following.
+      - It includes this bullet list.
 
 ------------------------------------------------------------------------
 
