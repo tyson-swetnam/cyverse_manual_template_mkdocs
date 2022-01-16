@@ -36,6 +36,7 @@ Introductory text
   | Menu title | Function explanation |
 
 .. note:: admonition-title
+
    Tip
    - The note contains all indented body elements
      following.
@@ -67,6 +68,7 @@ Introductory text
   | Menu title | Function explanation |
 
 .. note:: admonition-title
+
    Tip
    - The note contains all indented body elements
      following.
@@ -74,9 +76,18 @@ Introductory text
 
 ------------------------------------------------------------------------
 
-> 3.  For clickable buttons use \"`&button_name`{.interpreted-text
->     role="guilabel"}.\" to render a button with \'button\_name\'
->
+For clickable buttons:
+
+[Link button](http://example.com/){: .btn }
+
+[Link button](http://example.com/){: .btn .btn-purple }
+[Link button](http://example.com/){: .btn .btn-blue }
+[Link button](http://example.com/){: .btn .btn-green }
+
+[Link button](http://example.com/){: .btn .btn-outline }
+
+------------------------------------------------------------------------
+
 > 4. Keywords in bold: Click on **Apps** OR select **Arabidopsis**
 >
 > :   5.  Primary menu titles in double quotes: Under \"Input\"
